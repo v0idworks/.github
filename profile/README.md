@@ -2,8 +2,7 @@
 /////////////////////
 ## About v0idworks
 1. Reverse engineering and pasting code.
-2. Vibing.
-3. Doing stuff w/ ai.
+2. Doing stuff w/ ai.
 ## Current projects
 We are currently working on making automation enhancements in video games.
 ## V0idNet
