@@ -5,5 +5,4 @@
 2. Doing stuff w/ ai.
 ## Current projects
 We are currently working on making automation enhancements in video games.
-## V0idNet
-Network & AI powered training software for Source(engine)-based games.
+## voidnet is cancelled
